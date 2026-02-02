@@ -1,11 +1,66 @@
-## 👋 Hi there, I'm Mawa Godwill
+# Hi there, I'm Mawa Godwill 👋
 
-I am a dedicated **full-stack developer** with over 3 years of experience in crafting scalable websites,
-mobile and web applications. With a Certificate in Software Engineering specializing in JavaScript, I
-excel in designing intuitive user interfaces, database and server development, writing and testing clean
-and efficient code, and resolving complex technical challenges. My focus is on delivering innovative
-solutions and implementing new features that align with user needs and feedback, ensuring seamless and
-engaging user experiences.
+**Full-Stack Developer | Software Engineer | JavaScript Specialist**
 
-Visit my portfolio website **[mawagodwill.netlify.app](https://mawagodwill.netlify.app)** for more info.
+I'm a passionate full-stack developer with 3+ years of experience building scalable web and mobile applications. I specialize in creating intuitive user interfaces, robust backend systems, and delivering innovative solutions that solve real-world problems.
 
+---
+
+## 🚀 What I Do
+
+- **Frontend Development** – Crafting responsive, user-friendly interfaces
+- **Backend Development** – Building scalable server architectures and APIs
+- **Mobile Development** – Creating cross-platform mobile applications
+- **Database Design** – Architecting efficient data structures
+- **Problem Solving** – Tackling complex technical challenges with clean, maintainable code
+
+---
+
+## 💼 Technical Expertise
+
+**Languages & Frameworks**
+- JavaScript (ES6+), TypeScript, Node.js
+- React, React Native, Next.js
+- HTML5, CSS3, Tailwind CSS
+
+**Backend & Databases**
+- Express.js, RESTful APIs
+- MongoDB, PostgreSQL, MySQL
+- Firebase, Supabase
+
+**Tools & Practices**
+- Git & GitHub, CI/CD
+- Testing (Jest, Mocha)
+- Agile Development
+- Code Review & Documentation
+
+---
+
+## 🎯 What Drives Me
+
+I'm committed to:
+- Writing clean, efficient, and testable code
+- Designing solutions that align with user needs
+- Continuous learning and staying current with industry trends
+- Contributing to open-source projects
+- Delivering seamless user experiences
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, collaboration opportunities, or tech in general.
+
+- **Email:** [mawagodwill1224@gmail.com](mailto:mawagodwill1224@gmail.com)
+- **Phone:** +256 780 169873 | +256 751 680464
+- **GitHub:** [@godwill1224](https://github.com/godwill1224)
+
+---
+
+## 📊 GitHub Stats
+
+![Godwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=godwill1224&show_icons=true&theme=default)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
