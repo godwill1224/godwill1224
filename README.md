@@ -1,6 +1,6 @@
 # Hi there, I'm Mawa Godwill 👋
 
-**Full-Stack Developer | Software Engineer | JavaScript Specialist**
+**Full-Stack Developer | Software Engineer | Python & JavaScript Expert**
 
 I'm a passionate full-stack developer with 3+ years of experience building scalable web and mobile applications. I specialize in creating intuitive user interfaces, robust backend systems, and delivering innovative solutions that solve real-world problems.
 
@@ -9,9 +9,9 @@ I'm a passionate full-stack developer with 3+ years of experience building scala
 ## 🚀 What I Do
 
 - **Frontend Development** – Crafting responsive, user-friendly interfaces
-- **Backend Development** – Building scalable server architectures and APIs
+- **Backend Development** – Building scalable APIs and server architectures
 - **Mobile Development** – Creating cross-platform mobile applications
-- **Database Design** – Architecting efficient data structures
+- **Database Design** – Architecting efficient, scalable data structures
 - **Problem Solving** – Tackling complex technical challenges with clean, maintainable code
 
 ---
@@ -20,19 +20,30 @@ I'm a passionate full-stack developer with 3+ years of experience building scala
 
 **Languages & Frameworks**
 - JavaScript (ES6+), TypeScript, Node.js
+- Python 3.x
 - React, React Native, Next.js
 - HTML5, CSS3, Tailwind CSS
 
-**Backend & Databases**
+**Backend & APIs**
+- FastAPI, Django
 - Express.js, RESTful APIs
-- MongoDB, PostgreSQL, MySQL
+- GraphQL
+
+**Databases**
+- PostgreSQL, MySQL
+- MongoDB
 - Firebase, Supabase
+
+**Mobile Development**
+- React Native
+- Cross-platform app development
 
 **Tools & Practices**
 - Git & GitHub, CI/CD
-- Testing (Jest, Mocha)
+- Testing (Jest, Pytest, Mocha)
 - Agile Development
 - Code Review & Documentation
+- API Design & Documentation
 
 ---
 
@@ -54,12 +65,6 @@ I'm always open to discussing new projects, collaboration opportunities, or tech
 - **Email:** [mawagodwill1224@gmail.com](mailto:mawagodwill1224@gmail.com)
 - **Phone:** +256 780 169873 | +256 751 680464
 - **GitHub:** [@godwill1224](https://github.com/godwill1224)
-
----
-
-## 📊 GitHub Stats
-
-![Godwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=godwill1224&show_icons=true&theme=default)
 
 ---
 
